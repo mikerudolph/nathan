@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Recode",
+        "homepage": "https://recode.net",
+        "rss": "https://www.recode.net/rss/index.xml",
+        "score": 5,
+        "tags": ["tech", "startups", "entrepreneur", "innovation", "business" ]
+    },
+    {
+        "name": "Vox",
+        "homepage": "https://www.vox.com/",
+        "rss": "https://www.vox.com/rss/front-page/index.xml",
+        "score": 5,
+        "tags": ["pop-culture", "entertainment", "gossip", "news", "politics", "world"]
+    }
+]

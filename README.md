@@ -1,5 +1,7 @@
 # nathan
 
+Nathan is relevant, short-term, intuitive search
+
 ## Usage Examples
 
 ```js
